@@ -6,7 +6,7 @@ I'm Amandeep Sohal, I'm from the USA. I am an apisiring Data Analyst. I enjoy ga
 ## Skills
 - SQL ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - EXCEL ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- Tableau ![Tableau](https://img.shields.io/badge/Tableau-#bfc7c3?style=for-the-badge&logo=tableau&logoColor=white)
+- Tableau ![Tableau](https://img.shields.io/badge/Tableau-191199195?style=for-the-badge&logo=tableau&logoColor=white)
 - Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Experience
