@@ -6,7 +6,14 @@ I'm Amandeep Sohal, I'm from the USA. I am an apisiring Data Analyst. I enjoy si
 
 You can check out my Tableau dashboards here: https://public.tableau.com/app/profile/amandeep.sohal/vizzes
 
-Skills: SQL / Excel / Tableau / Python 
+## Skills and Experience
+- SQL
+- EXCEL
+- Tableau
+- Python
+
+- Spring Intern at MERC (Metrowest Economic Research Center) | January 2020-May 2024
+- Dunkin' Donuts Crew Worker | August 2022 - December 2023
 
 
 
