@@ -15,5 +15,6 @@ I'm Amandeep Sohal, I'm from the USA. I am an apisiring Data Analyst. I enjoy ga
 - Spring Intern at MERC (Metrowest Economic Research Center) | January 2020-May 2024
 - Dunkin' Donuts Crew Worker | August 2022 - December 2023
 
+# My Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandeepssohal/ "Amandeep Sohal's LinkedIn Profile")
 [![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/amandeep.sohal/ "Amandeep Sohal's Tableau Profile")
