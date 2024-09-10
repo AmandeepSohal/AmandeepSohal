@@ -8,7 +8,7 @@ I'm Amandeep Sohal, I'm from the USA. I am an apisiring Data Analyst. I enjoy ga
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=for-the-badge&logo=tableau&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Experience
-- Spring Intern at MERC (Metrowest Economic Research Center) | January 2020-May 2024
+- Spring Intern at MERC (Metrowest Economic Research Center) | January 2024-May 2024
 - Dunkin' Donuts Crew Worker | August 2022 - December 2023
 
 ## My Links
