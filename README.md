@@ -1,5 +1,4 @@
-### Hi there, I am Amandeep Sohal
-### Data Analyst
+### Amandeep Sohal
 ### Data Scientist and Analyst
 <!--![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 ## Skills
