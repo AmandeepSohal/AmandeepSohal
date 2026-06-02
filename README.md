@@ -4,7 +4,7 @@ I'm Amandeep, a machine learning engineer based in Georgia, United States.
 
 I achieved a **3.9/4.0 GPA** in my **Master's Degree for Data Analytics and Data Science.**
 
-I have worked with NCI Seermed breast and prostate cancer claims data.
+I have worked with NCI Seermed breast cancer & prostate cancer claims data.
 
 I've lead my team to win a sponsored machine learning project by Microf.
 
