@@ -1,9 +1,21 @@
-# Amandeep Sohal
-### Data Scientist and Analyst
-<!--![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
-## Skills
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=for-the-badge&logo=tableau&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# Hi there!
 
-## My Links
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandeepssohal/ "Amandeep Sohal's LinkedIn Profile")
-[![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/amandeep.sohal/ "Amandeep Sohal's Tableau Profile")
+I'm Amandeep, a machine learning engineer based in Georgia, United States.
+
+I achieved a 3.9/4.0 GPA in my Master's Degree for Data Analytics and Data Science.
+
+I have worked with NCI Seermed breast and prostate cancer claims data.
+
+I've lead my team to win a sponsored machine learning project by Microf
+
+My team mate and I got 3rd place at an analytics day presentation event
+
+I often work with health care data, but have experience in credit and claims data.
+
+My main workflow includes Python, SQL, Tableau, Excel, Jupyter Notebook, NumPy, Pandas, Matplotlib, Scikit-Learn.
+
+###Fun facts:
+- I am working on a game privately
+- I have a dog
+- I can solve a rubik's cube in a minute and 30 seconds
+- Hobbies: gym, video games, building things
