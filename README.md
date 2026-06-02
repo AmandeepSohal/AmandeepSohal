@@ -2,13 +2,13 @@
 
 I'm Amandeep, a machine learning engineer based in Georgia, United States.
 
-I achieved a 3.9/4.0 GPA in my Master's Degree for Data Analytics and Data Science.
+I achieved a **3.9/4.0 GPA** in my **Master's Degree for Data Analytics and Data Science.**
 
 I have worked with NCI Seermed breast and prostate cancer claims data.
 
-I've lead my team to win a sponsored machine learning project by Microf
+I've lead my team to win a sponsored machine learning project by Microf.
 
-My team mate and I got 3rd place at an analytics day presentation event
+My team mate and I got 3rd place at an analytics day presentation event using Atlanticus and Equifax data.
 
 I often work with health care data, but have experience in credit and claims data.
 
