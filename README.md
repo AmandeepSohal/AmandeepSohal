@@ -1,4 +1,4 @@
-# Hi there!
+## Hi there!
 
 I'm Amandeep, a machine learning engineer based in Georgia, United States.
 
@@ -14,7 +14,7 @@ I often work with health care data, but have experience in credit and claims dat
 
 My main workflow includes Python, SQL, Tableau, Excel, Jupyter Notebook, NumPy, Pandas, Matplotlib, Scikit-Learn.
 
-###Fun facts:
+### Fun facts:
 - I am working on a game privately
 - I have a dog
 - I can solve a rubik's cube in a minute and 30 seconds
