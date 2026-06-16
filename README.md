@@ -14,6 +14,8 @@ I often work with health care data, but have experience in credit and claims dat
 
 My main workflow includes Python, SQL, Tableau, Excel, Jupyter Notebook, NumPy, Pandas, Matplotlib, Scikit-Learn.
 
+### Note: I have projects that I have done with companies, but are not shown or listed because of NDA
+
 ### Fun facts:
 - I am working on a game privately
 - I have a dog
