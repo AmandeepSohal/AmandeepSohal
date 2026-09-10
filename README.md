@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Amandeep, a machine learning engineer based in Georgia, United States.
+I'm Amandeep, a machine learning engineer based in United States.
 
 I achieved a **3.9/4.0 GPA** in my **Master's Degree for Data Analytics and Data Science.**
 
