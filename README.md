@@ -12,7 +12,7 @@ My team mate and I got 3rd place at an analytics day presentation event using At
 
 I often work with health care data, but have experience in credit and claims data.
 
-My main workflow includes Python, SQL, Tableau, Excel, Jupyter Notebook, NumPy, Pandas, Matplotlib, Scikit-Learn.
+My main stack includes Python, SQL, Tableau, Excel, Jupyter Notebook, NumPy, Pandas, Matplotlib, Scikit-Learn.
 
 ### Note: I have projects that I have done with companies, but are not shown or listed because of NDA
 
