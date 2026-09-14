@@ -16,6 +16,9 @@ My main stack includes Python, SQL, Tableau, Excel, Jupyter Notebook, NumPy, Pan
 
 ### Note: I have projects that I have done with companies, but are not shown or listed because of NDA
 
+## Click here to go to my profile, if you accidentally clicked on the ReadME.md
+https://github.com/amandeepSohal/
+
 ### Fun facts:
 - I am working on a game privately
 - I have a dog
